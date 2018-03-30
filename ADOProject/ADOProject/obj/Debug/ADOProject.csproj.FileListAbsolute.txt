@@ -1,0 +1,6 @@
+E:\BizRun.NET\c#.net-programs\ADOProject\ADOProject\bin\Debug\ADOProject.exe.config
+E:\BizRun.NET\c#.net-programs\ADOProject\ADOProject\bin\Debug\ADOProject.exe
+E:\BizRun.NET\c#.net-programs\ADOProject\ADOProject\bin\Debug\ADOProject.pdb
+E:\BizRun.NET\c#.net-programs\ADOProject\ADOProject\obj\Debug\ADOProject.csprojResolveAssemblyReference.cache
+E:\BizRun.NET\c#.net-programs\ADOProject\ADOProject\obj\Debug\ADOProject.exe
+E:\BizRun.NET\c#.net-programs\ADOProject\ADOProject\obj\Debug\ADOProject.pdb
